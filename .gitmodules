@@ -1,0 +1,6 @@
+[submodule "EffectiveCPlusPlus/code_example/effective-cpp-3rd"]
+	path = EffectiveCPlusPlus/code_example/effective-cpp-3rd
+	url = git@github.com:henrytien/effective-cpp-3rd.git
+[submodule "EffectiveCPlusPlus/code_example/Effective-Cpp-Series"]
+	path = EffectiveCPlusPlus/code_example/Effective-Cpp-Series
+	url = git@github.com:taeguk/Effective-Cpp-Series.git
