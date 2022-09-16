@@ -38,3 +38,7 @@ public:
     A();        // default cor
 }
 ```
+
+## Item01 View C++ as a federation of languages
+
+因此我说，C++并不是一个带有一组守则的一体语言；它是从四个次语言组成的联邦政府，每个次语言都有自己的规约。记住这四个次语言你就会发现C++容易了解得多。
